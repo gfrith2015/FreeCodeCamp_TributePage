@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Montez|Roboto+Mono");
+
+html,body {
+    color: black;
+    background-color: lightgray;
+    font-family: 'Roboto Mono', monospace, sans-serif;
+    text-align: center;
+}
+#title {
+    color:black;
+    font-family: 'Montez', cursive, sans-serif;
+    font-size: 100px;
+    margin: 5px;
+}
+#subtitle {
+    color:black;
+    font-family: 'Montez', cursive, sans-serif;
+    font-size: 50px;
+    margin: 5px;
+}
+#quote {
+    color:black;
+    font-family: 'Montez', cursive, sans-serif;
+    font-size: 50px; 
+    margin: 15px;
+}
+#image {
+    border-radius: 15%;
+}
+ul {
+    max-width:850px;
+    margin: 0 auto;
+    text-align:left;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#headline {
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 25%
+}
+#img-div {
+    position: center;
+}
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+#sig {
+    margin-bottom: 15px;
+}
+#list {
+    margin-bottom: 5px;
+}
